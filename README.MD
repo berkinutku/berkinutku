@@ -1,7 +1,7 @@
 Merhaba!
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=100&lines=Hello;My+Name+Is+Alp+Arda;I+am+from+Turkey+/+Portugal;Data+science;Vibe+Coding;MLOps;Interested+in+problem+solving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=100&lines=Hello;My+Name+Is+Berkin+Utku;I+am+from+Turkey;Data+science;Vibe+Coding;MLOps;Interested+in+problem+solving" alt="Typing SVG" />
 
 </div>
 
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
  </a>
 </div>
-If you want to talk hit me up alpa.yalman@gmail.com
+If you want to talk hit me up berkinutku96@gmail.com
 
 
 
